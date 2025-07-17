@@ -67,5 +67,5 @@ Highlights spikes in orders during events like Holi and Valentine’s Day to ass
 ## 📂 Dataset Used
 
 *<a href="https://github.com/Akshitachoudhary/Fnp_sales_analysis_excel/blob/main/orders.csv">Orders</a>
-*<a herf="https://github.com/Akshitachoudhary/Fnp_sales_analysis_excel/blob/main/products.csv">Products</a>
-*<a herf="https://github.com/Akshitachoudhary/Fnp_sales_analysis_excel/blob/main/customers.csv">Customers</a>
+*<a href="https://github.com/Akshitachoudhary/Fnp_sales_analysis_excel/blob/main/products.csv">Products</a>
+*<a href="https://github.com/Akshitachoudhary/Fnp_sales_analysis_excel/blob/main/customers.csv">Customers</a>
