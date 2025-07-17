@@ -61,6 +61,7 @@ Highlights spikes in orders during events like Holi and Valentine’s Day to ass
 
 
 ## Dashboard Preview
+<img width="1505" height="655" alt="fnp_dashboard" src="https://github.com/user-attachments/assets/82ca0f4e-f3b3-428e-a8d4-fd54252e5490" />
 
 
 ## 📂 Dataset Used
