@@ -60,12 +60,8 @@ Highlights spikes in orders during events like Holi and Valentine’s Day to ass
 **Delivery Gap**: Average delivery occurs within 1–3 days of ordering, which can be optimized further.
 
 
+## Dashboard Preview
 
-## 📷 Dashboard Preview
-
-<img width="1446" height="636" alt="fp_dashboard" src="https://github.com/yourusername/repositoryname/assets/your-image-id" />
-
----
 
 ## 📂 Dataset Used
 
